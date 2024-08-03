@@ -15,7 +15,7 @@ Original file is located at
 #!pip install pypdf
 import streamlit as st
 import numpy as np
-from sentence_transformers import SentenceTransformer
+#from sentence_transformers import SentenceTransformer
 import faiss
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import CharacterTextSplitter
