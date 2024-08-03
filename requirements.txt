@@ -9,7 +9,7 @@ google-generativeai
 langchain
 SentenceTransformer
 langchain-community
-
+FAISS
 
 pip install -U langchain-community
 
