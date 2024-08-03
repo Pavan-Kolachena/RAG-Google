@@ -11,3 +11,5 @@ SentenceTransformer
 langchain-community
 
 
+pip install -U langchain-community
+
