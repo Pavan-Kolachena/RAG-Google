@@ -10,7 +10,7 @@ langchain
 #SentenceTransformerEmbeddings
 langchain_community
 #FAISS
-vectorstores
+#vectorstores
 python<3.5
 pip==24.2
 
