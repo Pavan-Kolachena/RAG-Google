@@ -7,12 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/12jnw31R4A946jIgSxVF1wx-_11SGAAAp
 """
 
-!pip install streamlit
-!pip install sentence_transformers
-!pip install faiss-cpu
-!pip install -U langchain-community
-!pip install transformers
-!pip install pypdf
+#!pip install streamlit
+#!pip install sentence_transformers
+#!pip install faiss-cpu
+#!pip install -U langchain-community
+#!pip install transformers
+#!pip install pypdf
 import streamlit as st
 import numpy as np
 from sentence_transformers import SentenceTransformer
