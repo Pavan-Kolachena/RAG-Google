@@ -12,8 +12,7 @@ langchain_community
 FAISS
 vectorstores
 python<3.5
-pip install langchain-community
-pip install --upgrade pip
+upgrade pip
 
 
 
