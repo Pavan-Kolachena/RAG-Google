@@ -12,7 +12,7 @@ langchain_community
 #FAISS
 #vectorstores
 python
-pip==24.2
+#pip==24.2
 
 
 
