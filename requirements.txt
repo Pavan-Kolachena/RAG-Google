@@ -10,6 +10,7 @@ langchain
 SentenceTransformer
 langchain-community
 FAISS
+vectorstores
 
 pip install -U langchain-community
 
