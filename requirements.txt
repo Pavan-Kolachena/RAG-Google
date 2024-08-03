@@ -7,7 +7,7 @@ langchain-google-genai
 langchain-core
 google-generativeai
 langchain
-SentenceTransformerEmbeddings
+#SentenceTransformerEmbeddings
 langchain_community
 FAISS
 vectorstores
