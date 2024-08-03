@@ -8,5 +8,6 @@ langchain-core
 google-generativeai
 langchain
 SentenceTransformer
+langchain-community
 
 
