@@ -8,7 +8,7 @@ langchain-core
 google-generativeai
 langchain
 SentenceTransformer
-langchain-community
+langchain_community
 FAISS
 vectorstores
 
