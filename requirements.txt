@@ -11,6 +11,7 @@ SentenceTransformer
 langchain_community
 FAISS
 vectorstores
+python<3.5
 
 
 
