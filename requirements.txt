@@ -8,6 +8,6 @@ google-generativeai
 langchain
 langchain_community
 faiss
-
+langchain.vectorstors-FAISS
 
 
