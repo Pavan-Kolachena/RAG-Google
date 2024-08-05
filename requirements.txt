@@ -1,7 +1,7 @@
 openai
 huggingface_hub
 python-dotenv
-streamlit
+streamlit--1.36.0
 PyPDF2
 langchain-google-genai
 langchain-core
