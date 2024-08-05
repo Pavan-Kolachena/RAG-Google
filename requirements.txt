@@ -7,7 +7,7 @@ langchain-core
 google-generativeai
 langchain
 langchain_community
-
+faiss
 
 
 
