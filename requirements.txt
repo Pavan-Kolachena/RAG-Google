@@ -1,14 +1,12 @@
-openai
 huggingface_hub
 python-dotenv
-streamlit--1.36.0
+streamlit
 PyPDF2
 langchain-google-genai
 langchain-core
 google-generativeai
 langchain
 langchain_community
-python--3.12.4
 
 
 
